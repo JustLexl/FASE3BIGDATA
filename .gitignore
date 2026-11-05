@@ -1,0 +1,12 @@
+# Entornos y temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Archivos de sistema operativo / IDE
+.vscode/
+.idea/
+Thumbs.db
